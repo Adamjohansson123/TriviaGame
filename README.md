@@ -1,9 +1,4 @@
-# Trivia Game
-
-This is a Vue application I created togheter with a coworker for an assignment at Experis Academy.
-
-## Heroku
-Link to Heroku: https://quiet-cove-39573.herokuapp.com/
+# trivia-game
 
 ## Project setup
 ```
@@ -27,3 +22,7 @@ npm run lint
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
+
+### Github Links
+ [Adam Johansson](https://github.com/Adamjohansson123/).
+ [Jaber Ali](https://github.com/Jaber-Ali).
