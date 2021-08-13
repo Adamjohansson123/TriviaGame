@@ -1,5 +1,8 @@
 # trivia-game
 
+## Heroku
+Link to Heroku: https://quiet-cove-39573.herokuapp.com/
+
 ## Project setup
 ```
 npm install
